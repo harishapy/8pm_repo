@@ -1,2 +1,2 @@
-hi am harish 
-from harihar
+hi am harish file.txt 
+from hariha
